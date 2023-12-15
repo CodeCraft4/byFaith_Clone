@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/byFaith_Clone/static/css/main.e61f296e.css",
+    "main.js": "/byFaith_Clone/static/js/main.58ced184.js",
+    "index.html": "/byFaith_Clone/index.html",
+    "main.e61f296e.css.map": "/byFaith_Clone/static/css/main.e61f296e.css.map",
+    "main.58ced184.js.map": "/byFaith_Clone/static/js/main.58ced184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61f296e.css",
+    "static/js/main.58ced184.js"
+  ]
+}
